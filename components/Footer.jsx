@@ -3,11 +3,7 @@ export default function Footer() {
     <>
       <footer className="p-3 text-center mb-20">
         <p>
-          Source Code oleh{'feriirawan'}
-          Di deploy ayasora
-          <a href="https://www.bayurahmat.site" target="_blank">
-            ayasora
-          </a>{' '}
+          Aplikasi islamiah mobile - aya sora - projectmudaa
           {/* untuk Sweet heartnya */}
         </p>
       </footer>
@@ -15,4 +11,4 @@ export default function Footer() {
   )
 }
 
-// 16/02/2022 16.00 WITA
+// 04 Januari 20224
